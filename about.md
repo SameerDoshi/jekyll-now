@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm super into DevOps, Azure, SciFi and accessibility 
+I'm super into DevOps, Azure, SciFi and accessibility.
 
 ### More Information
 
