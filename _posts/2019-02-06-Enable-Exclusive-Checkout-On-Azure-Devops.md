@@ -24,8 +24,11 @@ You'll need to add a TVCF Reoi
     * Click Advanced
     * Ensure Location is set to Server
     * Verify Server is set to dev.azure.com/<org>
+    
 
 ### Setup Team Explorer
     * (under team explorer) clicked "Settings"
     * (under "Team Project ")  click "Source Control" change type to “server” click ok
     * (under “Team Project”) click “Source Control”  then uncheck "multiple check-out"
+    * (under “Team Project Collection”) click “Source Control”  click “Workspace Setting” select “Server” and unselect “enable asynchronous checkout…”  
+    * (Under “Solutions > Workspace ”  click the named workspace and select “Manage Workspace” click “edit” click “Advanced”  set Location to “Server”
