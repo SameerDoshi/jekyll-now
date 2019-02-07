@@ -58,4 +58,4 @@ This command pushes your branch to the server
 
 
 ### Additional Help
-The GitHub [HelloWrold project](https://guides.github.com/activities/hello-world/)  provides details for how the entire workflow above.
+The GitHub [HelloWrold project](https://guides.github.com/activities/hello-world/)  provides details for how the entire workflow above. 
