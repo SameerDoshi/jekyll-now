@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Enable Exclusive Checkout on Azure DevOps 
+title: Pop Guitar Chords
 ---
 
 # Basic Chords
