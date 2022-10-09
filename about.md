@@ -18,7 +18,9 @@ His latest book is *The Work Ahead: A Novel*
 
 
 ### Contact me
-Please contact me on LinkedIn
+Please contact me on LinkedIn 
+Or Twitter
 
 ### Speaking Requests 
 Sameer has spoken at many tech conferences and to tech companies about DevOps and how to embrace change. Whether it’s flipping to SaaS, adopting DevOps, embracing Cloud, digital transformation, or scaling inner sourcing- he’s spoken about it. (If you don’t know what these words mean- don’t worry- he’s speaking to companies because they clearly don’t understand the words either!).
+
