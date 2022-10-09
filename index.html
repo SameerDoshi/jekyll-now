@@ -20,11 +20,9 @@ layout: default
   {% for category in site.data.projects %}
   <div class='row'>
     <div class='col-12 my-3'>
-      <h3>{{ category.name }}</h3>
-     
+      <h3>{{ category.name }}</h3>   
       <div class="row">
       {% for project in category.projects %}
-           <div class="col-12 col-sm-6 col-xl-{{ 12 | divided_by: layout.columns | int }} my-3">
             <div class="card">
               <div class="text-center">
               {% if project.image %}
