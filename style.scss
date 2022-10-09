@@ -18,10 +18,9 @@ html {
 }
 
 body {
-  font-family: $headings-font-family;
-  font-size: 18px;
-  background: $white;
-  color: $black;
+	background: $white;
+  font: 18px/1.4 $helvetica;
+  color: $darkGray;
 }
 
 .container {
