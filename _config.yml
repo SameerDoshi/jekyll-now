@@ -1,19 +1,19 @@
 #remote_theme: tedivm/jekyll-theme-portfolio
 
 
-#title: Sameer Doshi's Page
-#author: Sameer Doshi
+title: Sameer Doshi's Page
+author: Sameer Doshi
 #email: findme_on_linkedin@null.com
-#description: >
-#  Sameer Doshi. Sameer Chopra. Sameer Doshi Microsoft
-#  Author, Humorist, DevOps Enthusiast, Cloud Solutions Architect, Automation!
+description: >
+  Sameer Doshi. Sameer Chopra. Sameer Doshi Microsoft
+  Author, Humorist, DevOps Enthusiast, Cloud Solutions Architect, Automation!
 
 
 # Header Links - all optional. If set these create header links.
-#homepage: https://sdoshi.com
-#twitter_username: therealsameerc
-#github_username: sameerdoshi
-#linkedin_username: sameerdoshidevopsenthusiast
+homepage: https://sdoshi.com
+twitter_username: therealsameerc
+github_username: sameerdoshi
+linkedin_username: sameerdoshidevopsenthusiast
 
 
 #plugins:
