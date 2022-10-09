@@ -1,34 +1,38 @@
-- name: CLIs
+- name: TV
   icon: fas fa-terminal
   projects:
-    - name: Example
-      description: The logo for this project is for Puppet, and comes from the "assets/images/projects" directory.
-      github: example/example
-      pypi: example
+    - name: Channel 9
+      description: Digital transformation with Chef
       image: puppet.png
 
-    - name: Example
-      description: This project can be installed from npm.
-      github: Example/Example
-      npm: Example
-
-    - name: Example
-      description: This project can be installed from pypi.
-      github: Example/Example
-      pypi: Example
+    - name: WishTV
+      description: Blind engineer talks about his book
+      image: puppet.png
 
 
-- name: Misc
+- name: YouTube
   projects:
-    - name: Example
-      description: This project uses Font Awesome icons and is on Dockerhub.
-      github: Example/Example
-      dockerhub: Example/Example
+    - name: I'm Blind; Here's How I use a Computer
+      description: Viral video with almost a million views
       icon: fas fa-file-medical-alt
 
-    - name: Example
-      description: This Wordpress Plugin is actually just an example project.
-      platform: Wordpress
-      github: Example/Example
-      wordpress: Example
+    - name: Azure TTS
+      description: Using AI to deliver healthcare presentations for you!
+      icon: fab fa-wordpress
+- name: Radio
+  projects:
+    - name: CFRA 580 News Talk Radio 
+      description:  Despite Going Legally Blind, American Software Engineer Is Determined to Push Forward.
+      icon: fas fa-file-medical-alt
+
+    - name: Microsoft Dev Radio
+      description: Blazor + Graphql starter kit
+      icon: fab fa-wordpress
+    
+    - name: Microsoft Dev Radio
+      description: Blazor + Graphql starter kit
+      icon: fab fa-wordpress
+
+    - name: Microsoft Dev Radio
+      description: Bicep
       icon: fab fa-wordpress
