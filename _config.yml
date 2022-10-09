@@ -22,3 +22,4 @@ plugins:
  - jekyll-remote-theme # Lets us test remote themes locally.
 
 
+avatar: https://sdoshi.blob.core.windows.net/pics/sameeranime.png
