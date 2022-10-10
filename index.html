@@ -29,7 +29,9 @@ layout: default
     {% for project in category.projects %}
             <div class="card">
               <h5 class="card-title">{{ project.name}}</h5>
-              <a href="#" class="card-link">Card link</a>     
+              {% if project.link %}
+              <a href="{{ project.link }}" class="card-link">{{ project.site }}</a>     
+              {% endif %}
             </div>
       
       {%- endfor -%}

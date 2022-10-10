@@ -8,31 +8,31 @@
     - name: WishTV
       description: Blind engineer talks about his book
       image: puppet.png
-
-
 - name: YouTube
   projects:
     - name: I'm Blind; Here's How I use a Computer
       description: Viral video with almost a million views
-      icon: fas fa-file-medical-alt
-
+      site: youtybe
+      link: 
     - name: Azure TTS
       description: Using AI to deliver healthcare presentations for you!
-      icon: fab fa-wordpress
 - name: Podcasts
   projects:
     -name: This Project Life
     -name: The Gutsy Ones
     -name: Hansselminutes
+- name: Publications
+ projects:
+  - name: When I went blind at 31, I worried my career was over. Spoiler: It wasn't
+    site: today.com
+    link: http://today.com/http://today.com/
 - name: Radio
   projects:
-    - name: CFRA 580 News Talk Radio 
-      description:  Despite Going Legally Blind, American Software Engineer Is Determined to Push Forward.
-      icon: fas fa-file-medical-alt
-
+    - name: Despite Going Legally Blind, American Software Engineer Is Determined to Push Forward.
+      link: https://www.iheartradio.ca/580-cfra/audio-podcasts/cfra-live-despite-going-legally-blind-american-software-engineer-is-determined-to-push-forward-1.18587751?mode=Article
+      site:  CFRA 580 News Talk Radio 
     - name: Microsoft Dev Radio
-      description: Blazor + Graphql starter kit
-      icon: fab fa-wordpress
+      description: Blazor + Graphql starter kitd
     
     - name: Microsoft Dev Radio
       description: Blazor + Graphql starter kit
