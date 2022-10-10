@@ -12,10 +12,12 @@
   projects:
     - name: I'm Blind; Here's How I use a Computer
       description: Viral video with almost a million views
-      site: youtybe
-      link: 
-    - name: Azure TTS
+      site: youtube
+      link: https://www.youtube.com/watch?v=VBeu01ztoZE
+    - name: Using AI for Presentations
       description: Using AI to deliver healthcare presentations for you!
+      site: youtube
+      link: https://www.youtube.com/watch?v=f6Kw_FFKkio
 - name: Podcasts
   projects:
     -name: This Project Life

@@ -3,17 +3,17 @@ layout: post
 title: Pop Guitar Chords
 ---
 
-# Basic Chords
+## Basic Chords
 Most pop songs are made of the same chord patterns.  Know these four chords and you'll be well on your way to knowing guitar!
 
-# A
+### A
 2ND fret D G B
 
-# C 
+### C 
 3rd fret: A 2nd D, 1st: B
-# D
+### D
 3rd fret: B , 2nd G,E
-# E
+### E
 2nd fret: A, D, 1st: G
-# G
+### G
 3rd fret: A, E 2nd: D
