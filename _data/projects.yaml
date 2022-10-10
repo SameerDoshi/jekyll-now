@@ -22,10 +22,10 @@
     -name: The Gutsy Ones
     -name: Hansselminutes
 - name: Publications
- projects:
-  - name: When I went blind at 31, I worried my career was over. Spoiler: It wasn't
-    site: today.com
-    link: http://today.com/http://today.com/
+  projects:
+    -name: When I went blind at 31, I worried my career was over. Spoiler: It wasn't
+      site: today.com
+      link: http://today.com/http://today.com/
 - name: Radio
   projects:
     - name: Despite Going Legally Blind, American Software Engineer Is Determined to Push Forward.
