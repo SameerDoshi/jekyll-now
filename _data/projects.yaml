@@ -1,5 +1,4 @@
 - name: TV
-  icon: fas fa-terminal
   projects:
     - name: Channel 9
       description: Digital transformation with Chef
@@ -31,8 +30,14 @@
     - name: Arrested Dev Ops
       site: youtube
       link: https://www.youtube.com/watch?v=lBDFfC-wGls
-- name: Publications
+- name: Speaking Apperances
   projects:
+    - name: Chef Conf
+    - name: Relativity Fest
+      link: https://relativityfest.com/spotlights/2015-highlighted-speakers-developer/sameer-doshi/
+    - name: Citi Disabled
+- name: Publications
+  projects: 
     - name: When I went blind at 31, I worried my career was over. Spoiler: It wasn't
     - name: VICE
     - name: Newsweek
@@ -51,9 +56,3 @@
     - name: Microsoft Dev Radio
       description: Bicep
       icon: fab fa-wordpress
-- name: Speaking Apperances
-  projects:
-    - name: Chef Conf
-    - name: Relativity Fest
-      link: https://relativityfest.com/spotlights/2015-highlighted-speakers-developer/sameer-doshi/
-    - name: Citi Disabled
