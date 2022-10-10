@@ -7,7 +7,7 @@ layout: default
   {% for post in site.posts %}
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="entry">
         {{ post.excerpt }}
@@ -19,16 +19,21 @@ layout: default
 </div>
 
 <div class="portfolio">
-
+  <p>
+    {% for category in site.data.projects %}
+    <a class="btn btn-primary" data-toggle="collapse" href="#{{ category.name }}" role="button" aria-expanded="false">{{ category.name }}</a>
+    {% endfor %}
+  </p>
   {% for category in site.data.projects %}
-  <div class='row'>
-      <h3>{{ category.name }}</h3>   
-      {% for project in category.projects %}
+  <div class="collapse multi-collapse" id="{{ category.name }}">
+    {% for project in category.projects %}
             <div class="card">
-            {{ project.name}}
+              <h5 class="card-title">{{ project.name}}</h5>
+              <a href="#" class="card-link">Card link</a>     
             </div>
       
       {%- endfor -%}
   </div>
+     
   {% endfor %}
 </div>

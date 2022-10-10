@@ -19,6 +19,11 @@
     - name: Azure TTS
       description: Using AI to deliver healthcare presentations for you!
       icon: fab fa-wordpress
+- name: Podcasts
+  projects:
+    -name: This Project Life
+    -name: The Gutsy Ones
+    -name: Hansselminutes
 - name: Radio
   projects:
     - name: CFRA 580 News Talk Radio 
