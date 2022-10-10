@@ -38,7 +38,9 @@
     - name: Citi Disabled
 - name: Publications
   projects: 
-    - name: When I went blind at 31, I worried my career was over. Spoiler: It wasn't
+    - name: "When I went blind at 31, I worried my career was over. Spoiler: It wasn't"
+      site: his
+      link: hi
     - name: VICE
     - name: Newsweek
 - name: Radio
