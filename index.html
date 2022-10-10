@@ -16,22 +16,19 @@ layout: default
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
+</div>
+
+<div class="portfolio">
 
   {% for category in site.data.projects %}
   <div class='row'>
-    <div class='col-12 my-3'>
       <h3>{{ category.name }}</h3>   
-      <div class="row">
       {% for project in category.projects %}
             <div class="card">
             {{ project.name}}
             </div>
-          </div>
       
       {%- endfor -%}
-    </div>
   </div>
-  
   {% endfor %}
-  
 </div>
