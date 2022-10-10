@@ -22,11 +22,11 @@
   projects:
     - name: This Project Life
       site: spotify
-      link: https://blah.com
+      link: https://podcasts.apple.com/us/podcast/sameer-chopra-of-microsoft-the-need-for/id1625782292?i=1000571541072
 
     - name: The Gutsy Ones
       site: spotify
-      link: https://blah.com
+      link: https://founderswellbeing.com/podcast/episode-14-sameer-doshi/
     - name: Hansselminutes
     - name: Arrested Dev Ops
       site: youtube
@@ -35,7 +35,9 @@
   projects:
     - name: When I went blind at 31, I worried my career was over. Spoiler: It wasn't
       site: today.com
-      link: http://today.com/http://today.com/
+      link: http://today.com/
+    - name: VICE
+    - name: Newsweek
 - name: Radio
   projects:
     - name: Despite Going Legally Blind, American Software Engineer Is Determined to Push Forward.
