@@ -20,9 +20,17 @@
       link: https://www.youtube.com/watch?v=f6Kw_FFKkio
 - name: Podcasts
   projects:
-    -name: This Project Life
-    -name: The Gutsy Ones
-    -name: Hansselminutes
+    - name: This Project Life
+      site: spotify
+      link: https://blah.com
+
+    - name: The Gutsy Ones
+      site: spotify
+      link: https://blah.com
+    - name: Hansselminutes
+    - name: Arrested Dev Ops
+      site: youtube
+      link: https://www.youtube.com/watch?v=lBDFfC-wGls
 - name: Publications
   projects:
     - name: When I went blind at 31, I worried my career was over. Spoiler: It wasn't
@@ -43,3 +51,9 @@
     - name: Microsoft Dev Radio
       description: Bicep
       icon: fab fa-wordpress
+- name: Speaking Apperances
+  projects:
+    - name: Chef Conf
+    - name: Relativity Fest
+      link: https://relativityfest.com/spotlights/2015-highlighted-speakers-developer/sameer-doshi/
+    - name: Citi Disabled
